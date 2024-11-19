@@ -1,0 +1,10 @@
+virtualmachines:
+  - name: a
+    environ: dev
+    region: east
+  - name: b
+    environ: test
+    region: central
+  - name: c
+    environ: prod
+    region: west
